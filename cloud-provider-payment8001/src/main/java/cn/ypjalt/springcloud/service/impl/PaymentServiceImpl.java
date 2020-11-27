@@ -3,7 +3,6 @@ package cn.ypjalt.springcloud.service.impl;
 import cn.ypjalt.springcloud.dao.PaymentDao;
 import cn.ypjalt.springcloud.entities.Payment;
 import cn.ypjalt.springcloud.service.PaymentService;
-import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
